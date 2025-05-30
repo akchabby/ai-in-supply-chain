@@ -1,6 +1,6 @@
 # ai-in-supply-chain
 Projects and notes exploring how artificial intelligence is used in supply chain applications
-# AI in Supply Chain 🚚🤖
+# AI in Supply Chain 
 
 Exploring the applications of artificial intelligence in supply chain management. This repository includes small projects, datasets, and notes.
 
@@ -12,18 +12,13 @@ Exploring the applications of artificial intelligence in supply chain management
 - `supplier_risk/`: Risk scoring for supplier reliability
 - `notes/`: Research summaries, articles, and case studies
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python, Pandas, Scikit-learn, Matplotlib
 - Jupyter Notebook
-- (Optional) TensorFlow, XGBoost, Streamlit
+- TensorFlow
 
-## ✨ Goals
+## Goals
 
 - Understand real-world AI use cases in supply chains
-- Practice modeling and visualization
-- Build a portfolio of practical, supply-chain-focused data projects
-
----
-
-📬 Reach out at [your email] or [LinkedIn link] if you'd like to collaborate!
+- Build a portfolio of practical, supply-chain-focused data project
