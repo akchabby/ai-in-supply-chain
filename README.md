@@ -4,7 +4,7 @@ Projects and notes exploring how artificial intelligence is used in supply chain
 
 Exploring the applications of artificial intelligence in supply chain management. This repository includes small projects, datasets, and notes.
 
-## 📂 Contents
+## Contents
 
 - `demand_forecasting/`: Models predicting product demand using machine learning
 - `route_optimization/`: AI-powered logistics and route planning
